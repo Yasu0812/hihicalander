@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import { BlueBoxes } from '../logic/BlueBox';
 import { PiePlot } from './GraphComponent/PiePlot';
 import { getDateStr } from '../logic/Util'

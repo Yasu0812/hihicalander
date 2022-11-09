@@ -1,7 +1,7 @@
 import { Line } from 'react-chartjs-2'
 import { getDropRateData } from '../../logic/Util'
 import { Typography } from '@mui/material';
-import { Chart as ChartJS, Tooltip, Legend, CategoryScale, LinearScale, PointElement, LineElement, Filler } from 'chart.js';
+import { Chart as ChartJS, Legend, CategoryScale, LinearScale, PointElement, LineElement, Filler } from 'chart.js';
 ChartJS.register(Legend, CategoryScale, LinearScale, PointElement, LineElement, Filler);
 
 

@@ -1,4 +1,3 @@
-import { getDateStr } from "./Util"
 
 export class OneDayDrop {
 

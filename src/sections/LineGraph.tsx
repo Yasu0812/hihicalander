@@ -1,7 +1,6 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import { BlueBoxes } from '../logic/BlueBox';
 import { LinePlot } from './GraphComponent/LinePlot';
-import { getDateStr } from '../logic/Util'
 import Grid from '@mui/material/Unstable_Grid2';
 
 const LineGraph = (props: { blueBoxes: BlueBoxes }) => {

@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import eikanImg from '../images/eikan.svg'
 import hagyouImg from '../images/hagyou.svg'
 import shigokuImg from '../images/shigoku.svg'
@@ -56,11 +56,11 @@ function ButtonAndCount(props: {
                     <TableRow >
                         <TableCell>
                             <Typography>
-                                <IconButton onClick={() => { props.setShowDate((n) =>  getShiftDate(n, -1) ) }}>
+                                <IconButton onClick={() => { props.setShowDate((n) => getShiftDate(n, -1)) }}>
                                     <NavigateBeforeIcon />
                                 </IconButton>
                                 {year}/{month}/{day}
-                                <IconButton onClick={() => { props.setShowDate((n) =>  getShiftDate(n, 1) ) }}>
+                                <IconButton onClick={() => { props.setShowDate((n) => getShiftDate(n, 1)) }}>
                                     <NavigateNextIcon />
                                 </IconButton>
                             </Typography>

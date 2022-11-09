@@ -3,7 +3,6 @@ import './App.css';
 import ButtonAndCount from './sections/ButtonAndCount';
 import PieGraph from './sections/PieGraph';
 import LineGraph from './sections/LineGraph';
-import { getDateStr } from './logic/Util';
 import { BlueBoxes } from './logic/BlueBox';
 import Container from '@mui/material/Container';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
