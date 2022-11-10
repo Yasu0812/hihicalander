@@ -9,7 +9,7 @@ const PieGraph = (props: {
     showDate: Date
 }) => {
 
-    const { year, month, day } = getDateStr(props.showDate)
+    const { year, month } = getDateStr(props.showDate)
 
     return (
         <>
