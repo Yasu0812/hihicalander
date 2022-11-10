@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/hihicalander/static/css/main.a7ce4ac8.css",
+    "main.js": "/hihicalander/static/js/main.66bdf122.js",
+    "static/js/787.2861d3c3.chunk.js": "/hihicalander/static/js/787.2861d3c3.chunk.js",
+    "static/media/eikan.svg": "/hihicalander/static/media/eikan.cafbfad94009f0a66096a7deda0e1d5e.svg",
+    "static/media/shigoku.svg": "/hihicalander/static/media/shigoku.c594e58e0db17aaedb73d2795fa49fde.svg",
+    "static/media/hagyou.svg": "/hihicalander/static/media/hagyou.925fa355f6fdd46b63e524074a5d6abe.svg",
+    "static/media/hihi.svg": "/hihicalander/static/media/hihi.bfbad4a7e3d013127f69c1184ac8121c.svg",
+    "index.html": "/hihicalander/index.html",
+    "main.a7ce4ac8.css.map": "/hihicalander/static/css/main.a7ce4ac8.css.map",
+    "main.66bdf122.js.map": "/hihicalander/static/js/main.66bdf122.js.map",
+    "787.2861d3c3.chunk.js.map": "/hihicalander/static/js/787.2861d3c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7ce4ac8.css",
+    "static/js/main.66bdf122.js"
+  ]
+}
